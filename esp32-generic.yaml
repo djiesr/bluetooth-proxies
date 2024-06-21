@@ -21,6 +21,7 @@ wifi:
 api:
 logger:
 ota:
+  - platform: esphome
 improv_serial:
 
 dashboard_import:
